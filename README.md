@@ -5,12 +5,12 @@ You can view the project live on clicking the below deployment section link.
 https://movies-watchlist-efc9b.web.app/
 
 # 🌟 Features
-✅ Search Movies – Search for movies using an API and select the ones you want to watch.
-✅ Add to Watchlist / Watched List – Save movies to a Watchlist if you plan to watch them later or move them to Watched List once you've seen them.
-✅ Remove Movies – Easily remove movies from your Watchlist or Watched List.
-✅ State Management with Context API – Manage global state efficiently without prop drilling.
-✅ Material UI Integration – Provides a clean, modern, and responsive design.
-✅ Persistent State – Saves your watchlist data in local storage so it remains available even after refreshing the page.
+ ✅ Search Movies – Search for movies using an API and select the ones you want to watch.   
+ ✅ Add to Watchlist / Watched List – Save movies to a Watchlist if you plan to watch them later or move them to Watched List once you've seen them.
+ ✅ Remove Movies – Easily remove movies from your Watchlist or Watched List.
+ ✅ State Management with Context API – Manage global state efficiently without prop drilling.
+ ✅ Material UI Integration – Provides a clean, modern, and responsive design.
+ ✅ Persistent State – Saves your watchlist data in local storage so it remains available even after refreshing the page.
 
 # 🛠️ Tech Stack
 Frontend: ReactJS (CRA)
